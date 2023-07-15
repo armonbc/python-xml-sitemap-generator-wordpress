@@ -2,6 +2,9 @@
 A simple Python script to generate local sitemap.xml for Wordpress site
 - Auto-crawl links from WP REST-API
 - Posts Only (Categories, Tags, Comments,etc., are not implemented yet)
+
+[![Generate sitemap.xml](https://github.com/armonbc/python-xml-sitemap-generator-wordpress/actions/workflows/python-xmlgenerator.yml/badge.svg)](https://github.com/armonbc/python-xml-sitemap-generator-wordpress/actions/workflows/python-xmlgenerator.yml)
+
 #### Installation:
 ```
 pip3 install -r requirements.txt
